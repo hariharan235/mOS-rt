@@ -2,4 +2,4 @@
 
 ## Description
 
-This is the master the master branch
+This the master branch
