@@ -8,7 +8,7 @@
 
 * Src: Source files for OS and CLI
 
-* Inc: Include files for OS and ClI
+* Inc: Include files for OS and CLI
 
 * Versions: Will have different versions of the build
 
