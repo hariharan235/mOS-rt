@@ -8,6 +8,7 @@ This the master branch
 Aditya is the good guy now
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aditya is making some changes
 =======
 Hari is the bad guy!
@@ -17,3 +18,5 @@ This is new branch by Aditya
 
 Second change
 >>>>>>> branch-AM-1.0
+=======
+>>>>>>> restore-master
